@@ -14,6 +14,7 @@
 		3DD9D45B20210A8600B01DBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DD9D45920210A8600B01DBB /* LaunchScreen.storyboard */; };
 		3DD9D46620210A8700B01DBB /* Whats_the_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD9D46520210A8700B01DBB /* Whats_the_WeatherTests.swift */; };
 		3DD9D47120210A8700B01DBB /* Whats_the_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD9D47020210A8700B01DBB /* Whats_the_WeatherUITests.swift */; };
+		3DD9D47F20210B0200B01DBB /* photo-1502988632461-f68f5b4f415a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DD9D47E20210B0100B01DBB /* photo-1502988632461-f68f5b4f415a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3DD9D46C20210A8700B01DBB /* Whats the WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats the WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DD9D47020210A8700B01DBB /* Whats_the_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_the_WeatherUITests.swift; sourceTree = "<group>"; };
 		3DD9D47220210A8700B01DBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DD9D47E20210B0100B01DBB /* photo-1502988632461-f68f5b4f415a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo-1502988632461-f68f5b4f415a.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3DD9D45720210A8600B01DBB /* Assets.xcassets */,
 				3DD9D45920210A8600B01DBB /* LaunchScreen.storyboard */,
 				3DD9D45C20210A8600B01DBB /* Info.plist */,
+				3DD9D47E20210B0100B01DBB /* photo-1502988632461-f68f5b4f415a.jpg */,
 			);
 			path = "Whats the Weather";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DD9D47F20210B0200B01DBB /* photo-1502988632461-f68f5b4f415a.jpg in Resources */,
 				3DD9D45B20210A8600B01DBB /* LaunchScreen.storyboard in Resources */,
 				3DD9D45820210A8600B01DBB /* Assets.xcassets in Resources */,
 				3DD9D45620210A8600B01DBB /* Main.storyboard in Resources */,
